@@ -1,0 +1,12 @@
+.openpop {
+    padding-left: 12px !important;
+}
+.gridvid{
+    border: 1px solid #244950;
+    width: 210px;
+    height: 118px;
+}
+.highlight-vid {
+    border: 5px solid cyan;
+    font-weight: bold;
+}
